@@ -1,5 +1,4 @@
-# Voix-Divine_bot
-
+# Bot_Halysia
 Ce bot appartient à Arthur SAILLANT.
 Le partage de ce code n'a pas pour but de trouver des collaborateurs, mais de prouver mon travail. 
 
